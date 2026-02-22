@@ -9,6 +9,5 @@
 
 ## Test repo for the Version Control Essentials course.
 
-🌍 Hello World! --- IGNORE ---
+🌍 Hello World!
 
-This is the change I wanted!!!
